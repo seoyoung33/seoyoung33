@@ -2,7 +2,7 @@
 ### 현재 공부하는 프로그램
 * photoshop
 * illustrator
-* MTML5 `✅현재진행중`
+* HTML5 `✅현재진행중`
 * Javascript
 * Jquery
 * React
