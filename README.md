@@ -2,8 +2,8 @@
 ### 현재 공부하는 프로그램
 * photoshop
 * illustrator
-* HTML5 `✅현재진행중`
-* Javascript
+* HTML5 
+* Javascript `✅현재진행중`
 * Jquery
 * React
 * git
