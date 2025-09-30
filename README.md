@@ -5,7 +5,7 @@
 * illustrator
 * HTML5
 * CSS
-* Javascript `✅현재진행중`
+* Javascript
 * Jquery
 * React
 * git
